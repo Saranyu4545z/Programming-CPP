@@ -22,4 +22,4 @@ int main(){
 	
 	c.findArea();
 	c.perimeter();
-}
+};
